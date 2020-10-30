@@ -18,3 +18,4 @@ D:\.NET\PCAzureWebApi\obj\Debug\netcoreapp3.1\PCAzureWebApi.MvcApplicationPartsA
 D:\.NET\PCAzureWebApi\obj\Debug\netcoreapp3.1\PCAzureWebApi.dll
 D:\.NET\PCAzureWebApi\obj\Debug\netcoreapp3.1\PCAzureWebApi.pdb
 D:\.NET\PCAzureWebApi\obj\Debug\netcoreapp3.1\PCAzureWebApi.genruntimeconfig.cache
+D:\.NET\PCAzureWebApi\bin\Debug\netcoreapp3.1\PCAzureWebApi.yaml
