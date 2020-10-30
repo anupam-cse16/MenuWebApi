@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dockersamplerepos
-        image: 848863acr.azurecr.io/dockersamplerepos:latest
+        image: 848843dnazureacr.azurecr.io/dockersamplerepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
