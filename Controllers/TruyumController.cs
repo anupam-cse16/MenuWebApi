@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PCAzureWebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class TruyumController : ControllerBase
     {
@@ -20,7 +20,7 @@ namespace PCAzureWebApi.Controllers
         };
         // GET: api/Truyum
         [HttpGet]
-        public ActionResult<IEnumerable<MenuItem>> GetMenuItems()
+        public IEnumerable<MenuItem> GetMenuItems()
         {
             return menuItems;
         }
